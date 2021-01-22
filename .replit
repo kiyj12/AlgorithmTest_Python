@@ -1,2 +1,2 @@
 language = "python3"
-run = "python 구현/GameDevelop.py"
+run = "python 구현/RearrangeString.py"
